@@ -9,7 +9,7 @@
     /* This is for setting the background img and position of the img.*/
     height: 100%;
     width: 100%;
-    background-image: url(images/legalAdmin.jpg);
+    background-image: url(legalAdmin.jpg);
     background-position: center;
     background-size: cover;
     position: absolute;
